@@ -9,6 +9,7 @@ Creates a network.
 ## `Network`#`push`
 
 Adds layers to the network.
+The arguments are push(...layers), identical to an Array
 Returns the network.
 
 ## `Network`#`run`
